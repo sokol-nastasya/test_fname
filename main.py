@@ -3,9 +3,9 @@ import socket
 import bitstring as bitstring
 
 
-ip = "192.168.10.33"
+ip = "xxx.xxx.xx.xx"
 port = 554
-adr = "rtsp://192.168.10.33:554/live.sdp"
+adr = "rtsp://xxx.xxx.xx.xx:554/live.sdp"
 client_ports = [56554, 56555]
 fname = "stream1.h264"
 rn = 5000
